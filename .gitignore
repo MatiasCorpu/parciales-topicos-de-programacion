@@ -1,0 +1,17 @@
+# Ignorar carpetas bin y obj
+bin/
+obj/
+.vs/
+.vscode/
+
+# Ignorar archivos de proyectos generados automáticamente
+*.log
+*.layout
+*.depend
+*.tmp
+
+# Ignorar archivos de compilación
+*.o
+*.exe
+*.dll
+*.out
