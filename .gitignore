@@ -1,8 +1,9 @@
-# Ignorar carpetas bin y obj
+# Ignorar carpetas y .rar
 bin/
 obj/
 .vs/
 .vscode/
+*.rar
 
 # Ignorar archivos de proyectos generados automáticamente
 *.log
