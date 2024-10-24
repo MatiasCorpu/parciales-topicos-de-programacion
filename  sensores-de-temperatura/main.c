@@ -1,8 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+#include "funciones.h"
+// #include "funciones.c"
+
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+    informeSensores("sensores.txt");
+    return TODO_OK;
 }
