@@ -4,6 +4,7 @@ obj/
 .vs/
 .vscode/
 *.rar
+parciales-RAR/
 
 # Ignorar archivos de proyectos generados automáticamente
 *.log
@@ -16,6 +17,3 @@ obj/
 *.exe
 *.dll
 *.out
-
-#ignorar hechos.txt 
-hechos.txt
