@@ -11,6 +11,7 @@ parciales-RAR/
 *.layout
 *.depend
 *.tmp
+tempCodeRunnerFile.c
 
 # Ignorar archivos de compilación
 *.o
