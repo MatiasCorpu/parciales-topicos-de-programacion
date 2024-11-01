@@ -38,7 +38,6 @@ typedef int (*Comparar)(const void *, const void *);
 typedef void (*Actualizar)(void *, const void *);
 typedef void (*Accion)(void *, void *);
 
-
 Vector *vectorCrear(size_t tamELem, int capIni);
 void vectorDestruir(Vector *vec);
 int vectorInsertarOrdenado(Vector *vec, void *elem, Comparar cmp, Actualizar actualizar);
