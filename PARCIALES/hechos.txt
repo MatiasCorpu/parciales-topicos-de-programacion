@@ -1,0 +1,42 @@
+sensores-de-temperatura -> Pablo (HECHO)
+plazos-fijos -> Pan (Hecho)
+parcial-clubes -> Pan (Hecho)
+armado-pc -> Pan (Hecho)
+Atocorregible01-> Pablo (no se si es parcial) (HECHOS)
+
+
+banco_nuevo -> Pan (topicos-1 PARCILALES PAN)
+
+tres_funciones -> Nose (topicos-2) (HECHO)
+ofuscado -> Nose (topicos-2) (HECHO)
+matriz -> Pan (topicos-2) (HECHO)
+matriz en txt(campo variable) -> matriz dinamica -> calcular el prom de la diagonal -> mostrar elem mayores al prom(HECHOS)
+Enbarcaciones (topicos-2) (HECHO)
+
+rescursividad (topicos-2)
+
+hospital-figeroa (topicos-2)(HECHO)
+funciones-implementar (topicos-2) (HECHO)
+funcioens-implementar (whatsapp) (HECHO)
+
+
+-> contraseña de pracial Clubes "Alan Turing"
+
+
+
+topicos-0 ->ok
+topicos-1 ->ok
+topicos-2 ->ok
+
+---------------------------------------------------------------------------------------------
+Parcilaes de Pablo
+
+recuperatorio-3635-4-4900 (HECHO)
+parcial-2023-11-08 (HECHO)
+parcial-04-3600 (HECHO)
+
+---------------------------------------------------------------------------------------------
+
+
+facturacion-Electro -> Pan (plan anterior) (topicos-1 PARCILALES PAN)
+fix-enunciado -> Pan creo (plan anterior) (topicos-1 PARCILALES PAN)
