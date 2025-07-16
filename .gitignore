@@ -3,8 +3,8 @@ bin/
 obj/
 .vs/
 .vscode/
-*.rar
-parciales-RAR/
+# *.rar
+# parciales-RAR/
 
 # Ignorar archivos de proyectos generados automáticamente
 *.log
